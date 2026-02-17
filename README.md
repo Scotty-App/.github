@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DEL_BANNER" alt="Scotty App Banner" width="100%">
+  <img src="banner.jpg" alt="Scotty App Banner" width="100%">
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="URL_MANUELA" width="100px"><br><b>Manuela</b></td>
-      <td align="center"><img src="URL_PAULA" width="100px"><br><b>Paula</b></td>
-      <td align="center"><img src="URL_IVAN" width="100px"><br><b>Iván</b></td>
-      <td align="center"><img src="URL_JOSE_LUIS" width="100px"><br><b>José Luis</b></td>
-      <td align="center"><img src="URL_JOSE_RAMON" width="100px"><br><b>José Ramón</b></td>
+      <td align="center"><img src="avatar_manuela.png" width="100px"><br><b>Manuela</b></td>
+      <td align="center"><img src="avatar_ivan.png" width="100px"><br><b>Iván</b></td>
+      <td align="center"><img src="avatar paula.png" width="100px"><br><b>Paula</b></td>
+      <td align="center"><img src="avatar_jr.png" width="100px"><br><b>José Ramón</b></td>
+      <td align="center"><img src="avatar_jl.png" width="100px"><br><b>José Luis</b></td>
     </tr>
   </table>
 </div>
