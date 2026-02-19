@@ -37,7 +37,7 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma " /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,idea,vscode" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=sqlite" /> |
 | **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,linux,trello" /> |
