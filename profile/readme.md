@@ -22,7 +22,6 @@
     <tr>
       <td align="center"><img src="img/avatar_manuela_black.png" width="100px"><br><b>Manuela</b></td>
       <td align="center"><img src="img/avatar_ivan_black.png" width="100px"><br><b>Iván</b></td>
-      <td align="center"><img src="img/avatar_paula_black.png" width="100px"><br><b>Paula</b></td>
       <td align="center"><img src="img/avatar_jr_blck.png" width="100px"><br><b>José Ramón</b></td>
       <td align="center"><img src="img/avatar_jl_blck.png" width="100px"><br><b>José Luis</b></td>
     </tr>
