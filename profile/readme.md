@@ -67,7 +67,7 @@ Este repositorio es el punto de entrada a la organización **Scotty App**. El pr
 | [Scotty-App-Frontend](https://github.com/Scotty-App/Scotty-App-Frontend) | Plataforma web accesible desde el navegador | HTML · CSS · JavaScript |
 | [Scotty-App-Backend](https://github.com/Scotty-App/Scotty-App-Backend) | Aplicación administrativa de gestión de contenidos | Java · JavaFX |
 | [Scotty-App-Database](https://github.com/Scotty-App/Scotty-App-Database) | Esquema, migraciones y datos de la base de datos | SQL Server · MariaDB |
-| [Scotty-App-Docs](https://github.com/Scotty-App/Scotty-App-Docs) | Documentación técnica y funcional del proyecto | Word · PDF |
+| [Scotty-App-Docs](https://github.com/Scotty-App/Scotty-App-Docs) | Documentación técnica y funcional del proyecto | Word · PDF · Video |
 
 ---
 
