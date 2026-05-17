@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Learn & Play Your Way into Code</strong><br>
-  An educational platform designed to master programming through interactive games.
+  <strong>Juega, Aprende, Programa</strong><br>
+  Plataforma educativa gamificada para practicar programación mediante quizzes interactivos.
 </p>
 
 <p align="center">
@@ -13,42 +13,62 @@
   <img src="https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge" />
 </p>
 
+---
 
-
-### 🚀 The Team Behind Scotty App
+## 👥 El equipo
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="img/avatar_manuela_black.png" width="100px"><br><b>Manuela</b></td>
-      <td align="center"><img src="img/avatar_ivan_black.png" width="100px"><br><b>Iván</b></td>
-      <td align="center"><img src="img/avatar_jr_blck.png" width="100px"><br><b>José Ramón</b></td>
-      <td align="center"><img src="img/avatar_jl_blck.png" width="100px"><br><b>José Luis</b></td>
+      <td align="center"><img src="img/avatar_manuela_black.png" width="100px"><br><b>Manuela</b><br><sub>Scrum Master · DevOps</sub></td>
+      <td align="center"><img src="img/avatar_ivan_black.png" width="100px"><br><b>Iván</b><br><sub>UX/UI Designer</sub></td>
+      <td align="center"><img src="img/avatar_jr_blck.png" width="100px"><br><b>José Ramón</b><br><sub>Analista de Sistemas</sub></td>
+      <td align="center"><img src="img/avatar_jl_blck.png" width="100px"><br><b>José Luis</b><br><sub>Analista de Negocio</sub></td>
     </tr>
   </table>
 </div>
 
+---
 
+## 🗂️ Estructura del proyecto
 
-### 🛠️ Tech Stack & Learning Tools
+Este repositorio es la organización principal de Scotty App. El proyecto está dividido en cuatro repositorios:
+
+| Repositorio | Descripción |
+|---|---|
+| [Scotty-App-Frontend](https://github.com/Scotty-App/Scotty-App-Frontend) | Plataforma web — HTML, CSS y JavaScript |
+| [Scotty-App-Backend](https://github.com/Scotty-App/Scotty-App-Backend) | Aplicación administrativa — Java y JavaFX |
+| [Scotty-App-Database](https://github.com/Scotty-App/Scotty-App-Database) | Base de datos — SQL Server y MariaDB |
+| [Scotty-App-Docs](https://github.com/Scotty-App/Scotty-App-Docs) | Documentación del proyecto |
+
+---
+
+## 🛠️ Stack tecnológico
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma " /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,idea,vscode" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=sqlite" /> |
-| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,linux,trello" /> |
+| Área | Tecnologías |
+|:---|:---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,idea" /> |
+| **Base de datos** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| **Control de versiones** | <img src="https://skillicons.dev/icons?i=git,github" /> |
+| **Gestión del proyecto** | <img src="https://skillicons.dev/icons?i=trello" /> |
 
 </div>
 
+---
 
+## 🌐 Demo
 
-<h3 align="center">Connect with the Project 🤝</h3>
+La plataforma web está desplegada en CDMON y accesible desde el navegador.
 
-<p align="center">
-  <a href="mailto:PROJECT_EMAIL"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" /></a>
-  <a href="DISCORD_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="45" /></a>
-</p>
+> El acceso requiere usuario y contraseña al estar en servidor gratuito. En producción se accedería directamente por URL.
 
+---
+
+## 📋 Gestión del proyecto
+
+- **Tablero Kanban:** [Trello — Scotty App](https://trello.com/b/sttwpXvy/scotty)
+- **Metodología:** Scrum
+- **Centro:** IES Mutxamel · DAW 1º · 2025–2026
